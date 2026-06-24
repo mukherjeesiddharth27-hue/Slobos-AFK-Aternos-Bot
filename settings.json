@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Siddhar51.aternos.me:16063",
+    "ip": "Siddhar51.aternos.me",
     "port": 16063,
     "version": "1.21.5",
     "try-creative": false
